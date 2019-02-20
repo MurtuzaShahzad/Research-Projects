@@ -1,0 +1,773 @@
+
+
+***Features:  ['subjectofpaper']
+1
+
+-----------------------------LOVE-----------------------------
+Random Forest Real Accuracy:  73.64 %.
+subjectofpaper 1.0
+['subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Random Forest Accuracy:  0.7363754889178618
+Naive Bayes Accuracy:  0.7363754889178618
+Decision Tree Accuracy:  0.7363754889178618
+1
+
+-----------------------------HAHA-----------------------------
+Random Forest Real Accuracy:  93.78 %.
+subjectofpaper 1.0
+['subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Random Forest Accuracy:  0.9378096479791395
+Naive Bayes Accuracy:  0.9378096479791395
+Decision Tree Accuracy:  0.9378096479791395
+1
+
+-----------------------------WOW-----------------------------
+Random Forest Real Accuracy:  84.09 %.
+subjectofpaper 1.0
+['subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Random Forest Accuracy:  0.8409387222946545
+Naive Bayes Accuracy:  0.8409387222946545
+Decision Tree Accuracy:  0.8409387222946545
+1
+
+-----------------------------SAD-----------------------------
+Random Forest Real Accuracy:  94.2 %.
+subjectofpaper 1.0
+['subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Random Forest Accuracy:  0.9419817470664928
+Naive Bayes Accuracy:  0.9419817470664928
+Decision Tree Accuracy:  0.9419817470664928
+1
+
+-----------------------------ANGER-----------------------------
+Random Forest Real Accuracy:  94.59 %.
+subjectofpaper 1.0
+['subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Random Forest Accuracy:  0.9458930899608866
+Naive Bayes Accuracy:  0.9458930899608866
+Decision Tree Accuracy:  0.9458930899608866
+
+
+***Features:  ['facebook_count' 'subjectofpaper']
+2
+
+-----------------------------LOVE-----------------------------
+Random Forest Real Accuracy:  74.28 %.
+facebook_count 0.7913084065523988
+subjectofpaper 0.20869159344760127
+['facebook_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.76      0.96      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.51      0.15      0.23      1654
+
+avg / total       0.67      0.74      0.68      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.76      0.96      0.85      5648
+          2       0.11      0.02      0.04       368
+          3       0.47      0.14      0.22      1654
+
+avg / total       0.67      0.74      0.67      7670
+
+Random Forest Accuracy:  0.7427640156453715
+Naive Bayes Accuracy:  0.7363754889178618
+Decision Tree Accuracy:  0.7353324641460235
+2
+
+-----------------------------HAHA-----------------------------
+Random Forest Real Accuracy:  93.64 %.
+facebook_count 0.7916365631246188
+subjectofpaper 0.20836343687538142
+['facebook_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.22      0.01      0.02       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      0.99      0.96      7193
+          2       0.18      0.05      0.07       322
+          3       0.06      0.01      0.01       155
+
+avg / total       0.89      0.93      0.91      7670
+
+Random Forest Accuracy:  0.9363754889178618
+Naive Bayes Accuracy:  0.9378096479791395
+Decision Tree Accuracy:  0.9295958279009127
+2
+
+-----------------------------WOW-----------------------------
+Random Forest Real Accuracy:  83.98 %.
+facebook_count 0.8223689351837119
+subjectofpaper 0.1776310648162881
+['facebook_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.85      0.99      0.91      6450
+          2       0.43      0.09      0.16       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.75      0.84      0.78      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.85      0.98      0.91      6450
+          2       0.34      0.10      0.15       656
+          3       0.04      0.00      0.01       564
+
+avg / total       0.75      0.83      0.78      7670
+
+Random Forest Accuracy:  0.8397653194263364
+Naive Bayes Accuracy:  0.8409387222946545
+Decision Tree Accuracy:  0.8328552803129075
+2
+
+-----------------------------SAD-----------------------------
+Random Forest Real Accuracy:  94.13 %.
+facebook_count 0.7950513819676931
+subjectofpaper 0.20494861803230702
+['facebook_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.25      0.01      0.02       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.90      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      0.99      0.97      7225
+          2       0.25      0.06      0.10       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.90      0.94      0.92      7670
+
+Random Forest Accuracy:  0.9413298565840938
+Naive Bayes Accuracy:  0.9419817470664928
+Decision Tree Accuracy:  0.936897001303781
+2
+
+-----------------------------ANGER-----------------------------
+Random Forest Real Accuracy:  94.67 %.
+facebook_count 0.8148825746823877
+subjectofpaper 0.18511742531761233
+['facebook_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.61      0.07      0.13       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.92      0.95      0.92      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.95      0.99      0.97      7255
+          2       0.27      0.07      0.11       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.91      0.94      0.92      7670
+
+Random Forest Accuracy:  0.9466753585397654
+Naive Bayes Accuracy:  0.9458930899608866
+Decision Tree Accuracy:  0.9402868318122556
+
+
+***Features:  ['mendeley_count' 'reddit_count' 'subjectofpaper' 'twitter_count']
+3
+
+-----------------------------LOVE-----------------------------
+Random Forest Real Accuracy:  73.59 %.
+mendeley_count 0.3323557544733813
+twitter_count 0.37024004362412605
+reddit_count 0.08849556223616925
+subjectofpaper 0.20890863966632328
+['mendeley_count', 'twitter_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.74      0.99      0.85      5648
+          2       0.29      0.01      0.01       368
+          3       0.41      0.03      0.06      1654
+
+avg / total       0.65      0.74      0.64      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.75      0.77      0.76      5648
+          2       0.07      0.07      0.07       368
+          3       0.25      0.23      0.24      1654
+
+avg / total       0.61      0.62      0.61      7670
+
+Random Forest Accuracy:  0.7358539765319426
+Naive Bayes Accuracy:  0.7363754889178618
+Decision Tree Accuracy:  0.6185136897001304
+3
+
+-----------------------------HAHA-----------------------------
+Random Forest Real Accuracy:  93.72 %.
+mendeley_count 0.32691275056808405
+twitter_count 0.4072837089538062
+reddit_count 0.1243370584439361
+subjectofpaper 0.14146648203417345
+['mendeley_count', 'twitter_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.31      0.01      0.02       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      0.94      0.94      7193
+          2       0.09      0.10      0.09       322
+          3       0.04      0.03      0.03       155
+
+avg / total       0.89      0.89      0.89      7670
+
+Random Forest Accuracy:  0.9371577574967406
+Naive Bayes Accuracy:  0.9378096479791395
+Decision Tree Accuracy:  0.8860495436766623
+3
+
+-----------------------------WOW-----------------------------
+Random Forest Real Accuracy:  84.09 %.
+mendeley_count 0.33209739945512845
+twitter_count 0.38732533660399954
+reddit_count 0.1153736449413689
+subjectofpaper 0.1652036189995032
+['mendeley_count', 'twitter_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.44      0.02      0.04       656
+          3       0.50      0.00      0.00       564
+
+avg / total       0.78      0.84      0.77      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.85      0.85      0.85      6450
+          2       0.13      0.13      0.13       656
+          3       0.06      0.06      0.06       564
+
+avg / total       0.73      0.73      0.73      7670
+
+Random Forest Accuracy:  0.8409387222946545
+Naive Bayes Accuracy:  0.8409387222946545
+Decision Tree Accuracy:  0.7308996088657106
+3
+
+-----------------------------SAD-----------------------------
+Random Forest Real Accuracy:  94.21 %.
+mendeley_count 0.3645117481545458
+twitter_count 0.38012287935341504
+reddit_count 0.10776774957985205
+subjectofpaper 0.14759762291218714
+['mendeley_count', 'twitter_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.67      0.01      0.01       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.91      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      0.94      0.94      7225
+          2       0.04      0.05      0.05       295
+          3       0.02      0.03      0.03       150
+
+avg / total       0.89      0.89      0.89      7670
+
+Random Forest Accuracy:  0.9421121251629726
+Naive Bayes Accuracy:  0.9419817470664928
+Decision Tree Accuracy:  0.8878748370273793
+3
+
+-----------------------------ANGER-----------------------------
+Random Forest Real Accuracy:  94.56 %.
+mendeley_count 0.3390744519538806
+twitter_count 0.396027721568384
+reddit_count 0.11156079680199606
+subjectofpaper 0.15333702967573953
+['mendeley_count', 'twitter_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.95      0.95      0.95      7255
+          2       0.08      0.07      0.07       277
+          3       0.03      0.03      0.03       138
+
+avg / total       0.90      0.90      0.90      7670
+
+Random Forest Accuracy:  0.945632333767927
+Naive Bayes Accuracy:  0.9458930899608866
+Decision Tree Accuracy:  0.9016949152542373
+
+
+***Features:  ['facebook_count' 'mendeley_count' 'reddit_count' 'subjectofpaper'
+ 'twitter_count']
+4
+
+-----------------------------LOVE-----------------------------
+Random Forest Real Accuracy:  74.41 %.
+mendeley_count 0.20158059728148128
+twitter_count 0.20099369986512927
+facebook_count 0.427890670087175
+reddit_count 0.047934758191955834
+subjectofpaper 0.12160027457425863
+['mendeley_count', 'twitter_count', 'facebook_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.76      0.97      0.85      5648
+          2       0.50      0.00      0.01       368
+          3       0.52      0.14      0.22      1654
+
+avg / total       0.69      0.74      0.67      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.74      1.00      0.85      5648
+          2       0.00      0.00      0.00       368
+          3       0.00      0.00      0.00      1654
+
+avg / total       0.54      0.74      0.62      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.77      0.76      0.76      5648
+          2       0.06      0.06      0.06       368
+          3       0.29      0.30      0.29      1654
+
+avg / total       0.63      0.63      0.63      7670
+
+Random Forest Accuracy:  0.7440677966101695
+Naive Bayes Accuracy:  0.7363754889178618
+Decision Tree Accuracy:  0.6265971316818775
+4
+
+-----------------------------HAHA-----------------------------
+Random Forest Real Accuracy:  93.66 %.
+mendeley_count 0.22321413697651532
+twitter_count 0.25540533304904556
+facebook_count 0.3172934987665379
+reddit_count 0.08908147790533796
+subjectofpaper 0.11500555330256339
+['mendeley_count', 'twitter_count', 'facebook_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.19      0.01      0.02       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7193
+          2       0.00      0.00      0.00       322
+          3       0.00      0.00      0.00       155
+
+avg / total       0.88      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.94      0.92      0.93      7193
+          2       0.09      0.12      0.10       322
+          3       0.01      0.01      0.01       155
+
+avg / total       0.89      0.87      0.88      7670
+
+Random Forest Accuracy:  0.9366362451108213
+Naive Bayes Accuracy:  0.9378096479791395
+Decision Tree Accuracy:  0.8696219035202086
+4
+
+-----------------------------WOW-----------------------------
+Random Forest Real Accuracy:  84.41 %.
+mendeley_count 0.19007578916310444
+twitter_count 0.20371233568504998
+facebook_count 0.4405401270122269
+reddit_count 0.0620394244400385
+subjectofpaper 0.10363232369958013
+['mendeley_count', 'twitter_count', 'facebook_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.85      0.99      0.92      6450
+          2       0.58      0.09      0.15       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.76      0.84      0.78      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.84      1.00      0.91      6450
+          2       0.00      0.00      0.00       656
+          3       0.00      0.00      0.00       564
+
+avg / total       0.71      0.84      0.77      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.86      0.83      0.85      6450
+          2       0.20      0.24      0.22       656
+          3       0.07      0.08      0.07       564
+
+avg / total       0.75      0.73      0.74      7670
+
+Random Forest Accuracy:  0.8440677966101695
+Naive Bayes Accuracy:  0.8409387222946545
+Decision Tree Accuracy:  0.7258148631029987
+4
+
+-----------------------------SAD-----------------------------
+Random Forest Real Accuracy:  94.21 %.
+mendeley_count 0.23908338334367432
+twitter_count 0.23830714363727837
+facebook_count 0.3335825244266431
+reddit_count 0.07401368728029815
+subjectofpaper 0.1150132613121062
+['mendeley_count', 'twitter_count', 'facebook_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       1.00      0.00      0.01       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.93      0.94      0.91      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.94      1.00      0.97      7225
+          2       0.00      0.00      0.00       295
+          3       0.00      0.00      0.00       150
+
+avg / total       0.89      0.94      0.91      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.95      0.93      0.94      7225
+          2       0.08      0.09      0.08       295
+          3       0.04      0.05      0.05       150
+
+avg / total       0.90      0.88      0.89      7670
+
+Random Forest Accuracy:  0.9421121251629726
+Naive Bayes Accuracy:  0.9419817470664928
+Decision Tree Accuracy:  0.8809647979139504
+4
+
+-----------------------------ANGER-----------------------------
+Random Forest Real Accuracy:  94.85 %.
+mendeley_count 0.19844011706418432
+twitter_count 0.23692092375260518
+facebook_count 0.3897097589748604
+reddit_count 0.06840627273008028
+subjectofpaper 0.10652292747826983
+['mendeley_count', 'twitter_count', 'facebook_count', 'reddit_count', 'subjectofpaper']
+Classification Report: Random Forest
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.92      0.08      0.15       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.93      0.95      0.93      7670
+
+Classification Report: Bernouli
+             precision    recall  f1-score   support
+
+          1       0.95      1.00      0.97      7255
+          2       0.00      0.00      0.00       277
+          3       0.00      0.00      0.00       138
+
+avg / total       0.89      0.95      0.92      7670
+
+Classification Report: Decision Tree
+             precision    recall  f1-score   support
+
+          1       0.95      0.94      0.95      7255
+          2       0.13      0.14      0.14       277
+          3       0.03      0.04      0.04       138
+
+avg / total       0.91      0.90      0.90      7670
+
+Random Forest Accuracy:  0.9485006518904824
+Naive Bayes Accuracy:  0.9458930899608866
+Decision Tree Accuracy:  0.8958279009126466
